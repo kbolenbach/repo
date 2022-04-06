@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+    margin: 5px;
+    padding: 10cm;
+    font-family: 'Grape Nuts', cursive;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+body h1 {
+    font-size: 36px;
+}
+
+body h2 {
+    font-size: 30px;
+}
+
+body h3 {
+    font-size: 24px;
+}
+
+body h4 {
+    font-size: 18px;
+}
+
+body h5 {
+    font-size: 14px;
+}
+
+body h6 {
+    font-size: 12px;
+}
+
+
+body a {
+    color:red;
+}
+
